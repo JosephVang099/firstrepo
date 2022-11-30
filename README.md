@@ -1,2 +1,2 @@
 # firstrepo
-practice creating firt repo
+# practice creating firt repo
